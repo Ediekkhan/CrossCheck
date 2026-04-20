@@ -66,7 +66,7 @@ export default function BenefitsSection() {
                   metric: "24/7",
                   label: "Automatic monitoring while you sleep",
                 },
-              ].map((stat, index) => (
+              ].map((stat) => (
                 <div key={stat.label} className="text-center">
                   <p className="text-2xl md:text-3xl font-bold mb-2">{stat.metric}</p>
                   <p className="text-white/80 text-sm">{stat.label}</p>
