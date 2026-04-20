@@ -62,7 +62,7 @@ export default function ProblemSection() {
                 </h3>
                 <p className="text-gray-700 dark:text-gray-300">
                   Without proactive monitoring, sellers operate blind. By the time they notice
-                  a problem, it's already too late.
+                  a problem, its already too late.
                 </p>
               </div>
               <div className="space-y-4">
